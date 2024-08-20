@@ -1,0 +1,305 @@
+    1  ls
+    2  git config -l
+    3  git -v
+    4  cd D:
+    5  git init SC
+    6  ls -a
+    7  cd SC
+    8  ls -a
+    9  git config user.name ="SUBHRAJIT CHATTERJEE"
+   10  git config -l
+   11  git config --global user.email="subhrajitchatterjee251@gmail.com"
+   12  git config -l
+   13  git config --global user.email ="subhrajitchatterjee251@gmail.com"
+   14  git config -l
+   15  git config --global -l user.email ="subhrajit.chatterjee.csbs25@heritageit.edu.in"
+   16  cd D:
+   17  cd SC
+   18  git config -l
+   19  git config --global user.email="subhrajit.chatterjee.csbs25@heritageit.edu.in"
+   20  git config -l
+   21  git config --global user.email="subhrajit.chatterjee.csbs25@heritageit.edu.in"
+   22  git config -l
+   23  git config --global user.email ="subhrajit.chatterjee.csbs25@heritageit.edu.in"
+   24  git config -l
+   25  vi trail.c
+   26  git status
+   27  git add trail.c
+   28  git status
+   29  git commit -m "commiting the first .c file"
+   30  git status
+   31  git log
+   32  git branch
+   33  vi trail.c
+   34  vi trail.c
+   35  git status
+   36  git add trail.c
+   37  git commit -m "commiting the first .c file with comments"
+   38  git status
+   39  git log
+   40  git branch java
+   41  git branch 
+   42  git checkout java
+   43  vi trail.java
+   44  java add trail.java
+   45  vi trail.java
+   46  git add trail.java
+   47  git commit -m "commit for java file"
+   48  git status
+   49  git log
+   50  git checkout master
+   51  git branch
+   52  git diff
+   53  vi trail.c
+   54  git diff
+   55  git diff
+   56  vi trail.c
+   57  git diff
+   58  clear
+   59  cd D:
+   60  ls
+   61  cd SC
+   62  git config
+   63  git status
+   64  git branch
+   65  git config -l
+   66  History
+   67  history
+   68   git config user.name ="Codersubhra"
+   69  git config -l
+   70  git checkout java
+   71  git status
+   72  git add trail.c
+   73  git commit -m "commiting a file"
+   74  git log --online
+   75  git log -- online
+   76  git log --online
+   77  git log --oneline
+   78  git revert dce3a43
+   79  Cd D:
+   80  cd D:
+   81  cd SC
+   82  git branch python
+   83  git checkout python
+   84  vi gg.py
+   85  git status
+   86  git add gg.py
+   87  git status
+   88  git commit -m "commiting on python branch first python file"
+   89  git log --oneline
+   90  ls -a
+   91  git revert 646358c
+   92  git revert 646358c
+   93  git log --oneline
+   94  ls -a
+   95  git revert 646358c
+   96  vi ghj.py
+   97  git log --oneline
+   98  ls -a
+   99  git add ghj.py
+  100  git commit -m "python"
+  101  ls -a
+  102  git log --oneline
+  103  git revert 6c1387c
+  104  cd:
+  105  cd D:
+  106  cd sc
+  107  git branch
+  108  ls -a
+  109  vi gg.py
+  110  git remote add origin https://github.com/Codersubhra/college-work.git
+  111  git push --force origin Python
+  112  git push --force origin python
+  113  git pull origin python
+  114  git branch
+  115  git init SC_PULL_TRAIL
+  116  cd SC_PULL_TRAIL/
+  117  git remote add origin https://github.com/Codersubhra/college-work.git
+  118  git pull origin JAVA
+  119  git pull origin java
+  120  git pull origin python
+  121  ls -a
+  122  git branch
+  123  git init SC_CLONE_TRAIL
+  124  cd SC_CLONE_TRAIL
+  125  git remote add origin https://github.com/Codersubhra/college-work.git
+  126  git clone college-work
+  127  git clone college work
+  128  git clone https://github.com/Codersubhra/college-work.git
+  129  git clone https://github.com/Codersubhra/college-work.git
+  130  ls -
+  131  ls -a
+  132  git remote add origin https://github.com/Codersubhra/college-work.git
+  133  git pull origin python
+  134  git clone https://github.com/Codersubhra/college-work.git
+  135  branch
+  136  git branch
+  137  ls -a
+  138  gh repo clone Codersubhra/college-work
+  139  git repo clone Codersubhra/college-work
+  140  cd D:
+  141  ls -a
+  142  mkdir sc1
+  143  ls-1
+  144  ls -a
+  145  cd sc1
+  146  ls -a
+  147  cd SC
+  148  cd..
+  149  cd ..
+  150  cd SC
+  151  branch 
+  152  git branch
+  153  checkout master
+  154  git checkout master
+  155  ls -a
+  156  cd ..
+  157  cd sc1
+  158  git init
+  159  history
+  160  git config -l
+  161  git remote add origin https://github.com/Codersubhra/movie-talks.git
+  162  git branch localrepo1
+  163  git branch lclrpo
+  164  git pull https://github.com/Codersubhra/movie-talks.git
+  165  git branch localrepo1
+  166  git branch
+  167  ls -a
+  168  checkout localrepo1
+  169  git checkout localrepo1
+  170  ls -a
+  171  git clone https://github.com/Codersubhra/devops-lab.git
+  172  cd ..
+  173  mkdir sc2
+  174  cd sc2
+  175  git init
+  176  ls -a
+  177  git branch localrepo2
+  178  vi test.py
+  179  ls -a
+  180  git branch localrepo2
+  181  history
+  182  git branch
+  183  git remote add origin https://github.com/Codersubhra/devops-lab2.git
+  184  ls -a
+  185  git branch localrepo2
+  186  git branch loca
+  187  git fetch origin master:master
+  188  git branch
+  189  cd ..
+  190  ls -a
+  191  cd sc1
+  192  git branch
+  193  cd ..
+  194  rm sc2
+  195  rmdir sc2
+  196  git ls -a
+  197  ls -a
+  198  git init sc2
+  199  cd sc2
+  200  git branch
+  201  ls -a
+  202  git branch localrepo2
+  203  git clone https://github.com/Codersubhra/devops-lab.git
+  204  git branch branch2
+  205  git branch bran
+  206  git log
+  207  git commit -m "first commit"
+  208  git add devops-lab/
+  209  git add gg.py
+  210  git add tr
+  211  git log
+  212  git commit -m "first commit"
+  213  git log
+  214  git branch localrepo2
+  215  cd ..
+  216  cd sc1
+  217  git checkout master
+  218  ls -a
+  219  git add files for testing/
+  220  ls -a
+  221  git checkout localrepo1
+  222  git add devops-lab
+  223  git commit -m "second commit"
+  224  git log
+  225  git status
+  226  git add testing/
+  227  git commit -m "third coomit"
+  228  git status
+  229  clear
+  230  ls -a
+  231  git status
+  232  git status
+  233  git checkout
+  234  cd ..
+  235  git status
+  236  cd sc2
+  237  git status
+  238  git init sc1
+  239  git pull https://github.com/Codersubhra/devops-lab2.git
+  240  git status
+  241  git add sc1/
+  242  git add sc1/
+  243  ls -a
+  244  vi gg.py
+  245  git add gg.py
+  246  git add trail.c
+  247  git add sc1
+  248  cd ..
+  249  git init sc1
+  250  git pull https://github.com/Codersubhra/devops-lab2.git
+  251  cd sc1
+  252  git pull https://github.com/Codersubhra/devops-lab2.git
+  253  git add sc1
+  254  git add gg.py
+  255  git add trail.c
+  256  ls -a
+  257  git add README.md
+  258  git status
+  259  git remote -v
+  260  git remote add origin https://github.com/Codersubhra/devops-lab2.git
+  261  git remote -v
+  262  git status
+  263  git branch
+  264  vi testing.py
+  265  git status
+  266  git add testing.py
+  267  git commit -m "python file commiting"
+  268  git status
+  269  git branch newbranch1
+  270  git checkout newbranch1
+  271  vi hello.py
+  272  git status
+  273  git add hello.py
+  274  git commit -m "commiting on a newbranch1"
+  275  git status
+  276  git push
+  277  git push --set-upstream origin newbranch1
+  278  cd ..
+  279  cd sc2
+  280  git branch
+  281  git branch localrepo2
+  282  checkout localrepo2
+  283  git checkout localrepo2
+  284  vi new.py
+  285  git status
+  286  git add new.py
+  287  git commit -m "adding a new file"
+  288  git remote -v
+  289  git remote add origin https://github.com/Codersubhra/devops-lab.git
+  290  git remote -v
+  291  git push
+  292  git push --set-upstream origin localrepo2
+  293  git log
+  294  git log --one line
+  295  git log --oneline
+  296  git revert a2ecfc5
+  297  git log
+  298  ls -a
+  299  vi gg.py
+  300  git push
+  301  history>history.log
+  302  cd D:
+  303  cd SC
+  304  history
+  305  history>history.log
